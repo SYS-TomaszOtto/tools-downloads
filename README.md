@@ -79,7 +79,7 @@ Keeps the PC awake during long manual tasks, so the VPN doesn't drop when the sc
 
 ## Coming later
 
-These are still being prepared for public release: CAD QA, Team Resource Planner, ICE Evidence, Verbatim (meeting review) and a MicroStation CAD automation toolkit.
+These are still being prepared for public release: CAD QA, Team Resource Planner and a MicroStation CAD automation toolkit.
 
 ## Licence
 
