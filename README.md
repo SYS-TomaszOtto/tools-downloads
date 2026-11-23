@@ -77,15 +77,6 @@ Keeps the PC awake during long manual tasks, so the VPN doesn't drop when the sc
 - **Download:** [mouse-jiggler-v1.0.0.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/mouse-jiggler-v1.0.0/mouse-jiggler-v1.0.0.zip)
 - **How to run:** unzip, open Windows PowerShell in the folder, run `.\scripts\MouseJiggler.ps1` and click **Start Jiggler**.
 
-## ICE Meeting Notes
-
-**Status: Self-hosted** (command-line app, for technical users)
-
-Turns a meeting recording into a transcript and Markdown notes, using Whisper and Ollama on your own GPU machine. Linux only; nothing leaves your own computers.
-
-- **Download:** [ice-meeting-notes-2026.11.19.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/ice-meeting-notes-2026.11.19/ice-meeting-notes-2026.11.19.zip)
-- **How to run:** unzip, run `bash install.sh`, fill in `config.env` from `config.env.example`, then run `meeting-notes --help`.
-
 ## Coming later
 
 These are still being prepared for public release: CAD QA, Team Resource Planner, ICE Evidence, Verbatim (meeting review) and a MicroStation CAD automation toolkit.
