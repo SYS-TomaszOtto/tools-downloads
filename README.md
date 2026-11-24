@@ -36,9 +36,9 @@ Bulk-renames files in a folder, either with a numbered prefix (like `MN-01 - Tit
 
 **Status: Ready**
 
-A single web page that maps any folder you pick as a mind map, size treemap, explorer or searchable table, with previews and smart categories.
+A single web page that maps any folder you pick as a mind map, size treemap, explorer or searchable table, with previews (including Word, Excel and PowerPoint) and smart categories. It remembers the last folder you opened.
 
-- **Download:** [File-Mapper.html](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-mapper-v1.0.0/File-Mapper.html) (or the [zip with README and licence](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-mapper-v1.0.0/file-mapper-v1.0.0.zip))
+- **Download:** [File-Mapper.html](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-mapper-v1.1.0/File-Mapper.html) (or the [zip with README and licence](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-mapper-v1.1.0/file-mapper-v1.1.0.zip))
 - **How to run:** double-click `File-Mapper.html` to open it in Edge or Chrome, then click **Choose folder**.
 
 ## Pathway Pro
@@ -54,9 +54,9 @@ A single web page for tracking evidence and skills towards professional registra
 
 **Status: Ready**
 
-Browse and full-text search your OneDrive or any local folder in Edge, using a small local PowerShell helper.
+Browse and full-text search your OneDrive or any local folder in Edge, using a small local PowerShell helper. Includes a mind map view and dark mode.
 
-- **Download:** [file-browser-v1.0.1.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-browser-v1.0.1/file-browser-v1.0.1.zip)
+- **Download:** [file-browser-v1.1.0.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-browser-v1.1.0/file-browser-v1.1.0.zip)
 - **How to run:** unzip and double-click `app\Start Indexed Browser.cmd`; keep its PowerShell window open while you use the Edge tab.
 
 ## Keystroke Visualiser (KeyVis Pro)
