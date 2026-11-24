@@ -52,11 +52,11 @@ A single web page for tracking evidence and skills towards professional registra
 
 ## File Browser
 
-**Status: Fix pending, not yet tested**
+**Status: Ready**
 
-Browse and full-text search your OneDrive or any local folder in Edge, using a small local PowerShell helper. This version includes a crash fix that has not been tested yet.
+Browse and full-text search your OneDrive or any local folder in Edge, using a small local PowerShell helper.
 
-- **Download:** [file-browser-2026.11.23.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-browser-2026.11.23/file-browser-2026.11.23.zip)
+- **Download:** [file-browser-v1.0.1.zip](https://github.com/SYS-TomaszOtto/tools-downloads/releases/download/file-browser-v1.0.1/file-browser-v1.0.1.zip)
 - **How to run:** unzip and double-click `app\Start Indexed Browser.cmd`; keep its PowerShell window open while you use the Edge tab.
 
 ## Keystroke Visualiser (KeyVis Pro)
